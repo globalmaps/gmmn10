@@ -9,7 +9,7 @@ Credit: "Global Map of Mongolia ©ISCGM/ State Administration of Geodesy and Car
 
 Contact: State Administration of Geodesy and Cartography Mongolia.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/mongolia.png)
+E-mail: ![email](email.png)
 
 Phone number: +976-11-322683 
 
